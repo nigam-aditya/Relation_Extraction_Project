@@ -1,0 +1,455 @@
+sentence,true_relation,predicted_relation
+A child is told a <e1>lie</e1> for several years by their <e2>parents</e2> before he/she realizes that a Santa Claus does not exist.,Relation-16,Relation-18
+"Skype, a free software, allows a <e1>hookup</e1> of multiple computer <e2>users</e2> to join in an online conference call without incurring any telephone costs.",Relation-13,Relation-18
+"On a friend's advice, I purchased a sauerkraut and <e1>kimchi</e1> <e2>maker</e2> here and it is just fabulous (and cheap too).",Relation-18,Relation-16
+The <e1>captain</e1> and the <e2>crew</e2> of the Steve Irwin are grateful for the support of the City of Fremantle and Mayor Brad Pettitt for hosting the event.,Relation-18,Relation-12
+"The same <e1>effect</e1> is achieved the traditional <e2>way</e2>, with a team of workers like Keebler elves.",Relation-1,Relation-18
+"He has built a formidable reputation writing powerful <e1>dramas</e1> for the stage and screen, based on <e2>real events</e2> or socially vital issues.",Relation-18,Relation-14
+He produces <e1>drawings</e1> and videos that have been shown in <e2>museums</e2> in Europe and America.,Relation-18,Relation-2
+"Essentially, the <e1>blisters</e1> that appear in the mouth are caused by the <e2>herpes simplex virus</e2> type 1, HSV-1 for short.",Relation-16,Relation-1
+"The <e1>cartridge</e1> was marked as empty, even with <e2>ink</e2> in both chambers.",Relation-5,Relation-4
+<e1>Roundworms</e1> or ascarids are caused by an intestinal <e2>parasite</e2> called Toxocara canis.,Relation-16,Relation-1
+The <e1>treaty</e1> establishes a double majority <e2>rule</e2> for Council decisions.,Relation-0,Relation-14
+"By dividing the <e1>space</e1> in a kitchen <e2>drawer</e2> where you keep all your cooking utensils, you grouped items by size or purpose.",Relation-18,Relation-4
+The <e1>narrative</e1> comprises the <e2>interplay</e2> of two themes that are woven together as it criss-crosses back and forth between the life of nineteen year old Greg Kowalski's desire to become a firefighter and his heart-rending life growing up in Saginaw Michigan where he had to endure the physical and verbal abuse handed out by his appalling father.,Relation-18,Relation-3
+The <e1>room</e1> was filled with huge Jack-the-Dripper <e2>canvases</e2>.,Relation-18,Relation-3
+"The proposal was debated and enthusiastically endorsed in 2002 by a <e1>convocation</e1> of international <e2>scholars</e2> that included many prominent academics, among them scientists of the stature of the late H. Curien, H. Varmus, P. Crutzen and J. Sachs.",Relation-18,Relation-13
+People now post their <e1>opinions</e1> to this <e2>blog</e2>.,Relation-18,Relation-6
+One simple <e1>method</e1> for clearing small clogs is to use a tried-and-true <e2>combination</e2> of baking soda and vinegar.,Relation-18,Relation-11
+"The complete <e1>statue</e1>, topped by an imposing <e2>head</e2>, was originally nearly five metres high.",Relation-18,Relation-3
+The following <e1>comments</e1> are provided by <e2>readers</e2> and are the sole responsiblity of the authors.,Relation-16,Relation-10
+"Ambassador SUN Shuzhong answered the <e1>questions</e1> from the local <e2>press</e2> after his visit to the Memorial Center in Kigali on Dec. 28, 2007.",Relation-16,Relation-8
+"The <e1>defendant</e1> was released from <e2>custody</e2> on March 2, 2001.",Relation-8,Relation-18
+"In addition, the <e1>plant</e1> builds four-cylinder ""Ecotec"" that are used in <e2>vehicles</e2> like the Chevy Malibu and Cobalt.",Relation-18,Relation-17
+We used fried <e1>cheese</e1> as an element in a <e2>dish</e2>.,Relation-2,Relation-4
+The <e1>castle</e1> was inside a <e2>museum</e2>.,Relation-2,Relation-4
+The monitoring <e1>station</e1> receives the signal through a communication <e2>device</e2> and the combined signal is processed to retrieve GPS data.,Relation-3,Relation-11
+"In this approach, correction and police personnel jointly sought to locate and apprehend <e1>offenders</e1> who had absconded from parole and probation <e2>officers</e2>.",Relation-8,Relation-18
+"Sci-Fi Channel is the <e1>cable network</e1> exclusively dedicated to offering classic <e2>science fiction TV shows</e2> and movies, as well as bold original programming.",Relation-18,Relation-3
+The <e1>air</e1> was filled with the <e2>smell</e2> of burning plastic.,Relation-18,Relation-0
+"The <e1>body</e1> unleashes its extraterrestrial <e2>passenger</e2>, which proceeds to infect the student population at a breakneck pace.",Relation-9,Relation-17
+<e1>Asteroid</e1> threatened Earth with <e2>disaster</e2>.,Relation-18,Relation-0
+"In its early years the <e1>farm</e1> had forty <e2>acres</e2>, and was a productive subsistence farm with sheep being the primary source of income.",Relation-3,Relation-18
+"After handsome renovations at various locales, the <e1>company</e1> has remodeled a church into a <e2>home</e2>.",Relation-18,Relation-17
+"With our help, non-profit human service <e1>organizations</e1> effectively manage their <e2>resources</e2> and succeed in the modern era of human services.",Relation-11,Relation-18
+William H. Parker was the longest serving <e1>police</e1> <e2>chief</e2> in Los Angeles Police Department.,Relation-13,Relation-18
+Roadside <e1>attractions</e1> are frequently advertised with <e2>billboards</e2> to attract tourists.,Relation-15,Relation-18
+"Anyway, the <e1>guy</e1> convinced some local with a <e2>car</e2> to drive somewhere to procure us some beer.",Relation-18,Relation-11
+"To test the punch, the <e1>punchcutter</e1> makes an <e2>imprint</e2> on a piece of paper after coating the punch with soot from an open flame.",Relation-17,Relation-0
+They connected the <e1>plug</e1> of the <e2>battery box</e2> to the plug of the charger.,Relation-18,Relation-2
+"Our <e1>visit</e1> is part of the general <e2>strategy</e2> to engage the global community to benefit our economy, to enhance our national security and of course, to promote the welfare of our OFWs -- the biggest community of which is right here in the Kingdom of Saudi Arabia.",Relation-2,Relation-18
+A central vacuum is a vacuum <e1>motor</e1> and filtration system built inside a <e2>canister</e2>.,Relation-4,Relation-2
+"It was used mainly on Scarff ring mounts, but was also fitted onto the top <e1>wing</e1> of fighter <e2>aircrafts</e2>, controlled by a Bowden cable.",Relation-3,Relation-2
+"The <e1>high-wheelers</e1> were descended from an early type of <e2>push-bike</e2>, without pedals.",Relation-18,Relation-8
+A <e1>line</e1> is one of the basic terms in <e2>geometry</e2>.,Relation-18,Relation-2
+A <e1>nurse</e1> grabs the patient by the <e2>arm</e2> and escorts her back to her bed.,Relation-18,Relation-11
+The <e1>mushroom</e1> was found in a <e2>mass</e2> of wet twigs and leaves.,Relation-18,Relation-4
+"The second format is that of <e1>roundtables</e1> organised around <e2>keywords</e2>, that offer students the opportunity to participate in dialogue.",Relation-14,Relation-18
+"In recent years, most <e1>floppies</e1> have shipped pre-formatted from the <e2>factory</e2> as DOS FAT12 floppies.",Relation-16,Relation-8
+"In 1952, when Fidel ran for <e1>congressman</e1> on the Ortodoxo <e2>party ticket</e2>, it was Father who helped finance his campaign.",Relation-18,Relation-12
+"After months of sieges, with some of the most fierce human assaults by numbers many times their own, and when the smoke had cleared, the <e1>banner</e1> of the <e2>knights</e2> still stood on the ramparts.",Relation-18,Relation-13
+He directed his <e1>criticism</e1> at <e2>media coverage</e2> of the Catholic Church.,Relation-14,Relation-18
+Construction <e1>work</e1> at the facility started at the <e2>end</e2> of 1980.,Relation-8,Relation-18
+The <e1>chain</e1> of Hawaiian <e2>islands</e2> provides evidence that the Pacific Plate moves to the northwest.,Relation-3,Relation-13
+These <e1>investigations</e1> provided statistical <e2>evidence</e2> for genuine moral concern for the poor.,Relation-14,Relation-18
+"A ""green bean"" which is actually a <e1>fruit</e1> with <e2>seeds</e2> inside.",Relation-2,Relation-5
+"The aircraft was written off in the <e1>accident</e1> due to the severe <e2>impact</e2> caused by the KLM aircraft, and the resulting fire.",Relation-0,Relation-1
+But few anticipated that a small-scale <e1>production</e1> by a young <e2>playwright</e2> could spark the violent confrontation that this weekend resulted in thousands of pounds worth of damage and clashes with riot police at Birmingham Repertory Theatre.,Relation-18,Relation-16
+A <e1>tableau</e1> like this one is placed inside the king's <e2>room</e2> and refers to court ceremonies.,Relation-4,Relation-2
+In this panel the <e1>gerbil</e1> runs away from the <e2>threat</e2>.,Relation-8,Relation-18
+"Last night, my <e1>friend</e1> ran into a legendary <e2>surfer</e2> at a bar.",Relation-6,Relation-18
+These pages are intended to assist you in accessing Belgian library <e1>book</e1> <e2>catalogues</e2> over the internet.,Relation-13,Relation-18
+A <e1>man</e1> from Oxford with leprosy for more than 20 years was cured by the <e2>water</e2>.,Relation-18,Relation-11
+"The <e1>grandstand</e1> completes the <e2>concourse</e2> around the ground, and it will increase seating capacity to where it should be.",Relation-18,Relation-3
+Our <e1>staff</e1> has approached many <e2>people</e2> for the product survey.,Relation-6,Relation-18
+"The Meon <e1>activation</e1> was done with a light <e2>source</e2> by bouncing, splitting, and changing the color of the beams.",Relation-18,Relation-1
+"This forum is dedicated to the late Lou Alessi, a devoted <e1>leather</e1> <e2>craftsman</e2> and an all around gentleman.",Relation-18,Relation-16
+The <e1>shell</e1> encloses a <e2>rod</e2> having a nickel layer with a phosphorous content.,Relation-5,Relation-3
+The boy's <e1>coffin</e1> is carried to the <e2>funeral</e2> by his uncles.,Relation-18,Relation-6
+The shows were marred by some <e1>controversy</e1> in regard to <e2>tickets</e2>.,Relation-14,Relation-18
+A latching device removably secures and sealingly engages a closure around an <e1>opening</e1> in a <e2>cask</e2>.,Relation-18,Relation-2
+White <e1>souffle</e1> of <e2>clouds</e2> were strolling along the sky.,Relation-18,Relation-13
+A <e1>question</e1> was raised in regard to the public <e2>announcement</e2> of the names of the three finalists.,Relation-14,Relation-18
+"The difference, though, is that this research targeted the <e1>phagocytes</e1> with the polymer <e2>nanoparticles</e2>, and not the cancer cells themselves.",Relation-18,Relation-3
+The <e1>yeast</e1> is an ingredient for making <e2>beer</e2>.,Relation-18,Relation-9
+Personal <e1>anecdotes</e1> gathered in oral interviews with rural <e2>workers</e2> and their allies add a compelling human element to the book.,Relation-16,Relation-18
+"The <e1>movie</e1> featured a mutated <e2>sheep</e2> as the titular monster, which grew larger throughout the movie, until it exploded in the climactic scene.",Relation-14,Relation-3
+Carolyn Cooke's <e1>stories</e1> have been featured in the <e2>book</e2>.,Relation-12,Relation-15
+A <e1>committee</e1> assists the <e2>commission</e2> with the implementation of the programme.,Relation-18,Relation-12
+A <e1>brick</e1> <e2>mason</e2> is able to use these materials with hand tools and is able to mix the correct mortar to hold it all together.,Relation-10,Relation-16
+The rainbow <e1>flower</e1> was made with spool knitted <e2>cord</e2> on a flower loom.,Relation-18,Relation-3
+"Although he initially returns to his wife and children, when they return from <e1>evacuation</e1> after the <e2>war</e2>, Pavel now sees his wife as cloying and bourgeois.",Relation-18,Relation-1
+Condo <e1>associations</e1> are turning to <e2>receiverships</e2> to collect rent on foreclosed units.,Relation-11,Relation-18
+The first I heard of the <e1>crisis</e1> was from my <e2>boss</e2>.,Relation-18,Relation-8
+The McCain <e1>team</e1> has hastily assembled a <e2>team</e2> of former Bush White House aides to tutor the vice-presidential candidate.,Relation-18,Relation-13
+Transport authorities in the Western Cape have warned of hefty fines for motorists who ignore dedicated <e1>lane</e1> for buses and minibus taxis on the <e2>road</e2>.,Relation-2,Relation-18
+"The <e1>body</e1> that was removed for an autopsy was placed in a lead <e2>coffin</e2>, which was put inside a wooden case.",Relation-6,Relation-4
+We study the influence of an external electromagnetic field of 1.8 GHz in the formation or disaggregation of long <e1>rouleau</e1> of identical erythrocyte <e2>cells</e2>.,Relation-3,Relation-13
+Her <e1>husband</e1> copes well with his handicap in using a wooden <e2>leg</e2>.,Relation-11,Relation-3
+"An academic <e1>book</e1> has been reviewed by a fiction <e2>writer</e2>, who complained the book is ""academic"".",Relation-18,Relation-16
+"Early and recent pictures had to be perfectly aligned, allowing them to track the <e1>movement</e1> of <e2>moles</e2>, wrinkles and other facial landmarks.",Relation-13,Relation-18
+The elections to the minority seats are held on separate electorate <e1>basis</e1> consisting of non-Muslim <e2>population</e2> of the country under the same general procedures as those for the Muslim seats and at the same time.,Relation-18,Relation-13
+The majority of the announced <e1>reforms</e1> had to do with <e2>changes</e2> in allocation mechanisms.,Relation-14,Relation-18
+One <e1>topic</e1> that came up in the <e2>discussion</e2> with the audience was the future of news.,Relation-18,Relation-15
+"We dissect the body of people who make up a <e1>dance</e1> <e2>company</e2>, offering an insight into the roles and responsibilities involved in running a successful company.",Relation-18,Relation-16
+A Saudi <e1>prisoner</e1> escaped an American <e2>detention</e2> in the desert.,Relation-8,Relation-18
+One young pilot placed the <e1>medallion</e1> in a small leather <e2>pouch</e2> that he wore about his neck.,Relation-6,Relation-4
+"The <e1>company</e1> has mocked up a <e2>version</e2> of YouTube built around the HTML5 video tag, playing mini-movies inside a browser sans plug-ins.",Relation-18,Relation-17
+"Douglas obeyed the king, and the <e1>heart</e1> was enclosed in a silver <e2>casket</e2>.",Relation-6,Relation-4
+"The <e1>entrance</e1> to the temple was originally from the <e2>east</e2>, near the southeastern corner and decorated with twin monolithic limestone pillars colored red and bearing on the exterior side vertical hieroglyphic inscriptions in sunk relief with the queen's titulary, name and depiction.",Relation-18,Relation-8
+An artificial coral reef sunk off Phuket's Karon Beach two years ago is thought to be responsible for a bumper <e1>haul</e1> of <e2>fish</e2> caught by local fishermen earlier this month.,Relation-18,Relation-13
+<e1>Students</e1> of Mozambique planted the first <e2>crops</e2>.,Relation-18,Relation-17
+He removed the recurring acid <e1>reflux</e1> in the <e2>mouth</e2>.,Relation-8,Relation-6
+The <e1>management</e1> of the <e2>firm</e2> needs information on condition in the market and price elasticity of demand.,Relation-18,Relation-10
+"The propaganda <e1>machine</e1> tells us about these tin-pot <e2>dictators</e2>, which are the greatest threat to the world.",Relation-18,Relation-10
+The <e1>plant</e1> grows from an underground <e2>storage unit</e2> called a corm.,Relation-8,Relation-18
+The <e1>director</e1> of the <e2>company</e2> in its inaugural year was George Ogilvie.,Relation-18,Relation-12
+He is a Russian artist whose <e1>work</e1> has been shown in various <e2>galleries</e2> across the world.,Relation-18,Relation-15
+"The <e1>distraction</e1> caused by the students, coupled with limited vision down the track, caused the <e2>incident</e2> to occur.",Relation-0,Relation-1
+"About nine or ten years ago such a <e1>glut</e1> of <e2>parrs</e2> visited that part, that for several weeks it was imposible to dip a pail into the sea without taking some.",Relation-18,Relation-13
+The produced <e1>signal</e1> sensitively departs from an ideal <e2>sine</e2> as the input angle approaches the extremes of the range.,Relation-18,Relation-8
+An <e1>app</e1> from local <e2>newspaper</e2> the Manchester Evening News has topped the UK Palm Pre app store sales chart in its first week of release.,Relation-8,Relation-16
+"However, there are many universal humanitarian <e1>laws</e1> applying to <e2>war</e2>.",Relation-14,Relation-18
+A hinge <e1>assembly</e1> attaches a <e2>cover</e2> pivotally to a base of an electronic device and has a pivoting leaf and a stationary leaf.,Relation-2,Relation-3
+"Toward the end of the novel, Chike's father, a former slave whose wealth was based, in part, on a large <e1>plantation</e1> of cocoa <e2>beans</e2> and coconuts, wakes up one morning to find that all his plants have been cut down.",Relation-3,Relation-18
+The viewing <e1>line</e1> starts in the magic trick <e2>aisle</e2>.,Relation-18,Relation-2
+We learned so much about <e1>lighting</e1> and rendering from these <e2>works</e2> of art.,Relation-15,Relation-18
+The Stephen Colbert <e1>treadmill</e1> has been installed in the international <e2>space station</e2>.,Relation-6,Relation-2
+A single good starting <e1>geometry</e1> was generated from an input SMILES <e2>string</e2>.,Relation-18,Relation-8
+Two <e1>seniors</e1> in this house have arrived into senior <e2>leadership positions</e2>.,Relation-18,Relation-6
+"The U.S. Transportation Security Administration (TSA) has lost a hard drive containing <e1>information</e1> about 100,000 former and current <e2>employees</e2>.",Relation-14,Relation-18
+The Swedish Society for Eighteenth Century Studies is an interdisciplinary <e1>forum</e1> for researchers specialized in <e2>eighteenth century</e2>.,Relation-14,Relation-18
+"Most <e1>oil</e1> polluting the oceans comes from <e2>runoff</e2>, rivers, small boats, not tanker spills.",Relation-8,Relation-1
+"An African <e1>immigrant</e1> arrives on board a rescue boat at the <e2>port</e2> of Los Cristianos on Spain's Canary island of Tenerife October 17, 2008.",Relation-18,Relation-8
+This <e1>list</e1> has been prepared on the basis of <e2>records</e2> and information available to the secretariat.,Relation-8,Relation-3
+The new <e1>phone</e1> has been moved into <e2>prototype stage</e2>.,Relation-18,Relation-6
+A bundle of sensitive <e1>files</e1> linked to a massive police drugs <e2>bust</e2> have been found dumped in a skip.,Relation-18,Relation-14
+"The message <e1>body</e1> was comprised of the <e2>phrase</e2> ""hey, check this out! "".",Relation-18,Relation-3
+This <e1>paper</e1> thus presents a detailed <e2>review</e2> of previous work that evaluates the optimum operational decisions of an LSE.,Relation-14,Relation-18
+"A more spare, less robust use of classical <e1>motifs</e1> is evident in a <e2>ewer</e2> of 1784-85.",Relation-2,Relation-15
+The <e1>display</e1> showing signal and battery <e2>status</e2> also incorporates feedback from machinery being operated.,Relation-14,Relation-3
+"There are people who have learnt about <e1>benchmarking</e1> from a range of <e2>sources</e2>, most notably practitioner-oriented literature, networking, and reflections on their own practice.",Relation-15,Relation-18
+This <e1>table</e1> serves as an example of the <e2>data</e2> and observations routinely collected in the Horner rootstock trial.,Relation-14,Relation-3
+A <e1>data</e1> <e2>warehouse</e2> is a place where data is stored for archival purposes.,Relation-4,Relation-18
+"The city of Chicago lost 725000 residents between 1950 and 2000, yet 82 percent of the suburban <e1>growth</e1> was from outside the metropolitan <e2>area</e2>.",Relation-18,Relation-1
+TV total started as a <e1>comedy format</e1> mainly showing and commenting on funny and embarrassing <e2>sequences</e2> from other TV programs.,Relation-18,Relation-3
+Construction <e1>worker</e1> carrying a wooden <e2>plank</e2> on his shoulder.,Relation-18,Relation-11
+Cooking and fermenting the <e1>grain</e1> produced a tasty nutritious <e2>drink</e2> which stored well.,Relation-9,Relation-18
+"Examples of problems which have been addressed by <e1>atmospheric chemistry</e1> include <e2>acid rain</e2>, photochemical smog and global warming.",Relation-18,Relation-0
+Critical audience <e1>studies</e1> are migrating into intellectual <e2>inquiry</e2> focused on participation developing the stress on processes of interactive engagement.,Relation-6,Relation-18
+"Down one wall was a series of blueprints, to which the <e1>clutch</e1> of <e2>mechanics</e2> around each car constantly referred.",Relation-13,Relation-10
+The <e1>northeast</e1> was the source of <e2>contention</e2> between these various rivaling groups.,Relation-18,Relation-0
+The estranged <e1>couple</e1> transferred funds into these <e2>accounts</e2> from their own personal accounts.,Relation-18,Relation-6
+The closely guarded Raffles <e1>recipe</e1> was locked in a <e2>safe</e2> that still remains onsite today.,Relation-6,Relation-4
+Work was completed by <e1>contractors</e1> using a temporary <e2>entrance</e2> off Old Renwick Road.,Relation-18,Relation-11
+A boy gets his <e1>tongue</e1> stuck in a <e2>canteen</e2>.,Relation-18,Relation-4
+'Wellness' tracker lures <e1>seniors</e1> to a <e2>data</e2> driven lifestyle.,Relation-11,Relation-18
+"In this grotto the boy was also born, and exposed; the mother leaves the <e1>child</e1> behind in a woven <e2>basket</e2>.",Relation-18,Relation-6
+It is far more reminiscent of an exit <e1>hole</e1> caused by a real <e2>missile</e2>.,Relation-16,Relation-1
+Even the thinnest <e1>crack</e1> in a <e2>humidor</e2> is an open invitation to cigar beetles.,Relation-18,Relation-1
+The bottom section of the <e1>mast</e1> has been mounted onto the <e2>ship</e2>.,Relation-6,Relation-2
+The <e1>human</e1> lies down in a sealed <e2>box</e2> and allows his mind to do nothing but operate the avatar.,Relation-18,Relation-4
+"In a poetic series of alternately charming, dry and sometimes tragic aphorisms the <e1>biographer</e1> constructs a personality from <e2>minutiae</e2>.",Relation-11,Relation-18
+The seven <e1>chains</e1> have given away a total of 5.6 billion single-use <e2>bags</e2> in the past year.,Relation-9,Relation-17
+"Moreover, from the <e1>porch</e1> of the <e2>stoics</e2> he brings out matter, and places it on a par with the Divine Creator.",Relation-18,Relation-2
+The <e1>launcher</e1> receives the balls through a similar belt <e2>system</e2> leading up the neck of the robot from the ground.,Relation-11,Relation-3
+The 34th <e1>battalion</e1> was a part of the <e2>cavalry</e2> not surrendered by Gen. Robert.,Relation-2,Relation-12
+"As I travelled the world and had facials in every corner, I have finally found a <e1>therapist</e1> with such a perfect <e2>way</e2> of touching my face.",Relation-11,Relation-18
+"Some voter advocates worry that the requirement, paired with the <e1>crush</e1> of <e2>applications</e2>, has risked leaving more would-be voters with only a provisional ballot on Election Day.",Relation-13,Relation-18
+"And destiny lies for us in many places, way up in the High Lonesome with a <e1>cowardice</e1> of <e2>curs</e2> or our passions for the loves we know.",Relation-18,Relation-13
+The <e1>box</e1> contained a complete British manual telegraph tape-making and high speed sending <e2>system</e2>.,Relation-18,Relation-3
+"Urgent <e1>needs</e1> are approaching the <e2>society</e2>, which requires dynamic changes.",Relation-6,Relation-18
+A really enjoyable drinking <e1>experience</e1> ensued from this red <e2>blend</e2> from this boutique winery from the Cowra area of Central Western NSW.,Relation-1,Relation-8
+"As a result, the brain is depleted of <e1>dopamine</e1>, which causes the severe <e2>depression</e2> after the cocaine has dissipated.",Relation-18,Relation-0
+"Although the <e1>clauses</e1> were invented by the <e2>framers</e2> to serve common values, there is some tension between the two.",Relation-16,Relation-10
+Utilizing concrete plank floor/ceiling <e1>construction</e1> benefits the <e2>builder</e2>.,Relation-10,Relation-16
+"In the 2006 Robin Hood series, Robin at one point is lowered into a <e1>pit</e1> of poisonous <e2>snakes</e2>.",Relation-18,Relation-13
+Three friends are forced to question what keeps them together after a <e1>quarrel</e1> over the <e2>purchase</e2> of a work of art.,Relation-18,Relation-1
+"From banishing <e1>cold</e1> and flu <e2>germs</e2> to preventing foodborne illnesses, frequent hand-washing is one of the smartest preventive habits you can adopt.",Relation-1,Relation-0
+<e1>Responses</e1> were obtained from 310 <e2>presidents</e2> provosts and 1293 deans.,Relation-8,Relation-16
+"The outer <e1>bark</e1> composed of dead <e2>phloem</e2> alternating with bands of cork is called, technically, rhytidome.",Relation-18,Relation-8
+A Western <e1>journalist</e1> took an assignment from his newspaper's <e2>office</e2> for visiting Pakistan and filing exclusive reports on the current nuclear issue.,Relation-18,Relation-8
+Human <e1>growth</e1> <e2>hormone</e2> is described by some as the key to slowing the aging process.,Relation-1,Relation-18
+"At my work, an <e1>electronic engineer</e1> has migrated into <e2>embedded software</e2>.",Relation-11,Relation-18
+"The <e1>president</e1> of the <e2>corporation</e2>, by virtue of his office, presides as chairman of the meeting.",Relation-18,Relation-12
+"The <e1>founder</e1> of a growing advertising <e2>agency</e2> is happy to see his business flourish, but is left wondering what his role is now that others have taken over.",Relation-17,Relation-18
+My baby <e1>sister</e1> was lying asleep in a <e2>cradle</e2> next to my mom's bed.,Relation-18,Relation-4
+Several major manufacturers of <e1>chain</e1> <e2>saws</e2> claim to have invented the first chain saw and all their claims point to the 1920s.,Relation-2,Relation-10
+The western region of Mauritania is the scene of a serious <e1>plague</e1> of desert <e2>locusts</e2>.,Relation-18,Relation-13
+He sees <e1>taxation</e1> as a central instrument for the <e2>government</e2> (over and above revenue raising) especially for re-distribution of wealth.,Relation-10,Relation-18
+It has been asserted in the <e1>literature</e1> that the <e2>recognition</e2> of speech takes place not because of phonemic distinctions only.,Relation-14,Relation-18
+He grabbed and put all dirty <e1>clothing</e1> in a <e2>hamper</e2>.,Relation-6,Relation-4
+"The <e1>city</e1> has constructed some tourism facilities and a new police <e2>station</e2> in the showcase area, but no new houses are to be built here.",Relation-17,Relation-3
+The <e1>definition</e1> of the vCard Specification made use of a number of existing <e2>standards</e2>.,Relation-11,Relation-18
+"On this basis, the vibronically coupled CD bands of lutein diacetate are attributed to an excitonic <e1>interaction</e1> arose from the twisted nematic <e2>layers</e2>.",Relation-1,Relation-8
+The Seattle women's <e1>group</e1> distributes a number of small <e2>scholarships</e2> for single mothers who want to go to college.,Relation-18,Relation-17
+The VP's <e1>wife</e1> was a member of a succession <e2>movement</e2>.,Relation-12,Relation-18
+We propose a <e1>rule</e1> driven <e2>approach</e2> for adaptive business collaboration development in which rules drive and govern the development process.,Relation-2,Relation-18
+Approximately 20 dl of <e1>water</e1> was put in a fish <e2>tank</e2>.,Relation-6,Relation-4
+A worker inserts the small <e1>spring</e1> in the <e2>device</e2> and then installs the buttons.,Relation-6,Relation-2
+The <e1>exaltation</e1> of the <e2>larks</e2> were heard in high-exalting by the mallards who were rather flushed from playing in the puddling.,Relation-13,Relation-18
+Clearwire customers in a <e1>handful</e1> of <e2>locations</e2> were unable to get online for several hours due to a network outage late Tuesday.,Relation-18,Relation-13
+The <e1>astronauts</e1> rode to the station in a <e2>capsule</e2>.,Relation-18,Relation-11
+Now this <e1>laboratory</e1> also is part of a larger <e2>organisation</e2>.,Relation-2,Relation-12
+The <e1>president</e1> of this <e2>corporation</e2> was one of its stockholders.,Relation-18,Relation-12
+This <e1>volume</e1> synthesizes current <e2>understanding</e2> of the ecology of Alaska's boreal forests.,Relation-14,Relation-18
+An encapsulating composition is infused into the channel to encapsulate the <e1>tissue</e1> in a <e2>capsule</e2>.,Relation-6,Relation-4
+I first became acquainted with the book through an audio <e1>book</e1> I was given by a dear <e2>friend</e2> of mine a few years ago.,Relation-8,Relation-16
+The <e1>staff</e1> of the <e2>hospital</e2> are committed to maintaining these services.,Relation-18,Relation-2
+"The <e1>hostel</e1> comprises of a main <e2>building</e2> of 3 floors, it started its life as a nun's convent that's been renovated.",Relation-18,Relation-2
+Greasy or oily <e1>rags</e1> or materials subject to spontaneous ignition are deposited in a <e2>receptacle</e2>.,Relation-6,Relation-4
+"The rest of the <e1>volume</e1> presents the <e2>inscriptions</e2>, giving the circumstances of finding.",Relation-14,Relation-5
+I'm so honored to represent my father in this <e1>comradeship</e1> of <e2>brothers</e2>.,Relation-13,Relation-18
+Successful <e1>memes</e1> spread into numerous <e2>copies</e2> whereas unsuccessful ones become extinct.,Relation-18,Relation-6
+Gordon Brown <e1>speech</e1> addresses the <e2>critics</e2> on UK immigration.,Relation-18,Relation-14
+These <e1>initiations</e1> only have been passed on to a selected few after <e2>years</e2> of apprenticeship.,Relation-18,Relation-6
+"Within a minute, the <e1>guard</e1> leaves the <e2>podium</e2> again and disappears into the crowd.",Relation-8,Relation-18
+I maintained an even temperature in my ward by bringing in a <e1>scuttle</e1> of <e2>coal</e2> for the day's business.,Relation-5,Relation-3
+High-frequency geometric <e1>ray theory</e1> is used to study the refracted arrival from a <e2>layer</e2> embedded in an infinite medium.,Relation-18,Relation-8
+The tribunal has jurisdiction over any <e1>dispute</e1> concerning the <e2>interpretation</e2> or application of other agreements.,Relation-18,Relation-14
+The <e1>dataset</e1> was extracted from internal <e2>documents</e2> of the Ministry of Justice and analysed using standard demographic and epidemiological methods.,Relation-8,Relation-3
+"The <e1>bootlegger</e1> bought his <e2>staples</e2> there, as well as apples for his mash.",Relation-11,Relation-17
+The <e1>fire</e1> originated in an <e2>area</e2> of the plant housing cement mixing and lifting equipment.,Relation-8,Relation-18
+"<e1>Diabetes</e1> is a group of metabolic <e2>disorders</e2> characterized by a hyperglycemia resulting from defects in insulin secretion, insulin action, or both.",Relation-18,Relation-0
+The sketchy <e1>rock</e1> in Figure 16 is built up of many separate brush <e2>strokes</e2>.,Relation-3,Relation-18
+You have poured <e1>balm</e1> into my anxious <e2>soul</e2>.,Relation-18,Relation-6
+"The delay in bringing the suit to trial is being caused by a terrific <e1>log- jam</e1> of pending <e2>cases</e2>, court aids explained.",Relation-18,Relation-13
+"The <e1>correspondence</e1> encloses a purported <e2>cheque</e2>, as described above, for $2980.00, to go towards these fees.",Relation-5,Relation-3
+The purpose of the <e1>class</e1> was to examine the <e2>therapeutic benefits</e2> of writing and to discern whether writing can be a help or a hinderance in some situations.,Relation-14,Relation-18
+"The last hereditary sheriff of Galloway used to silence the <e1>disputation</e1> of <e2>lawyers</e2> in his court by calling them ""Schoondrels! Blethering loons!""",Relation-13,Relation-18
+A <e1>stranger</e1> approached my little <e2>brother</e2>.,Relation-6,Relation-18
+My <e1>room</e1> has been moved into the <e2>corner</e2> of the first floor.,Relation-18,Relation-6
+The <e1>energy</e1> is going away from the <e2>source</e2> at the group velocity Cg.,Relation-1,Relation-8
+"The game received mixed reviews, with some of video games <e1>publications</e1> commenting on the <e2>similarities</e2> between other games from Dragon Ball.",Relation-14,Relation-18
+The <e1>cerebrum</e1> (the forebrain) is made up of the right and left cerebral <e2>hemispheres</e2>.,Relation-3,Relation-2
+"We assume that the <e1>energy</e1> release from the <e2>charge</e2> is pot instantaneous, but it depends on time.",Relation-8,Relation-1
+The <e1>nest</e1> of <e2>hornets</e2> was long and uncovered externally.,Relation-18,Relation-13
+The painting shows a historical view of the <e1>damage</e1> caused by the 1693 Catania earthquake and the <e2>reconstruction</e2> activities.,Relation-18,Relation-1
+The generated <e1>script</e1> creates candidate keys defined using a unique <e2>index</e2>.,Relation-3,Relation-11
+A local FM <e1>radio</e1> keeps the town informed about local and international <e2>development</e2>.,Relation-14,Relation-18
+The <e1>crisis</e1> originated in an over-leveraged corporate <e2>sector</e2> and a banking sector that had mismatched assets and liabilities.,Relation-8,Relation-1
+"As a strategic move, the <e1>researcher</e1> started the school with a third-year <e2>programme</e2> with mature students.",Relation-11,Relation-17
+The NTSB determined that the <e1>aircraft</e1> departed from controlled <e2>flight</e2> and crashed into the Atlantic Ocean.,Relation-18,Relation-8
+"The inside of your <e1>nose</e1> is lined with a moist, thin layer of <e2>tissue</e2> called a mucous membrane (say: myoo-kus mem-brayne).",Relation-18,Relation-3
+These <e1>rules</e1> regulate human's <e2>behavior</e2> toward eachother and serve to maintain a sense of social unity.,Relation-14,Relation-18
+They chose a <e1>shop</e1> that oven bakes the paint in a down draft paint <e2>booth</e2>.,Relation-11,Relation-18
+"When a <e1>joke</e1> driven <e2>comedy</e2> has weaker jokes, there's nothing behind them.",Relation-2,Relation-18
+This <e1>page</e1> carries a list of some of these <e2>conventions</e2>.,Relation-3,Relation-14
+"Since Sally Industries' inception, John Wood has been a <e1>key</e1> <e2>member</e2> of the company's management team and a founding member of the board of directors.",Relation-18,Relation-12
+Pressure <e1>regulation</e1> using the <e2>valve</e2> and different amounts of fluid goes a long way in keeping your hydraulic log splitter in action.,Relation-11,Relation-18
+"There is the evidence, photographic and otherwise, recording the <e1>debris</e1> caused by the subsequent <e2>fire</e2> and the explosions.",Relation-18,Relation-1
+The <e1>archive</e1> contains reviews from previous <e2>months</e2>.,Relation-18,Relation-8
+"The <e1>paddle</e1>, called a dasher, fits inside a <e2>canister</e2> that holds the ice cream mixture.",Relation-18,Relation-4
+This <e1>government</e1> views <e2>science</e2> simply as a tool for profit generation.,Relation-11,Relation-18
+Bertolli takes <e1>pages</e1> and pages of text to explain the <e2>significance</e2> of flours.,Relation-14,Relation-18
+The photodeflection <e1>technique</e1> or mirage method consists in periodically heating a sample with a pump <e2>laser</e2> modulated by an optical chopper.,Relation-18,Relation-3
+The album contains not only songs but also spoken parts narrating <e1>parts</e1> of the <e2>story</e2>.,Relation-2,Relation-14
+"The oak <e1>tree</e1> was growing in the <e2>woods</e2> of the Longleat Estate, in Wiltshire, at the time Darwin was alive and developing his theory.",Relation-12,Relation-18
+Former <e1>baseball</e1> <e2>arbitrator</e2> Thomas Roberts died due to age-related complications last Wednesday.,Relation-18,Relation-10
+A <e1>tree</e1> growing in the <e2>woods</e2> often develops long roots (15 to 25 feet) rather than a compact root system in order to compete with the roots of existing trees.,Relation-12,Relation-18
+The <e1>meeting</e1> decided definitively by secret <e2>vote</e2> of at least 2/3 of those present entitled to vote.,Relation-11,Relation-18
+The bottle carrier converts your <e1>bottle</e1> into a <e2>canteen</e2>.,Relation-18,Relation-6
+The <e1>project</e1> uses <e2>art</e2> as an instrument to provide viewers different insights.,Relation-11,Relation-3
+Both <e1>squads</e1> battered the opposing goaltender with a continuous flurry of <e2>shots</e2>.,Relation-18,Relation-11
+My dish is attached to a <e1>pole</e1> that resides in a <e2>receptacle</e2> designed for just such a purpose.,Relation-4,Relation-2
+The best mode of the invention is to form the <e1>pillow</e1> of firm <e2>foam</e2> rather than using cotton or cloth or feather filers.,Relation-3,Relation-18
+The proposed permanent <e1>rules</e1> establish <e2>criteria</e2> and procedures for awarding grants to eligible applicants.,Relation-0,Relation-14
+The <e1>player</e1> starts playing at the next nearest <e2>keyframe</e2>.,Relation-8,Relation-11
+Marking birds with color <e1>bands</e1> and a U.S. Fish and Wildlife Service uniquely numbered metal band enables <e2>researchers</e2> to follow individuals from year to year.,Relation-10,Relation-18
+Larger <e1>batteries</e1> provide standby <e2>power</e2> for telephone exchanges or computer data centers.,Relation-0,Relation-18
+The politicians have taken <e1>people</e1> deep into the <e2>twilight zone</e2>.,Relation-18,Relation-6
+We discovered that a <e1>casket</e1> was placed inside a second <e2>casket</e2> made of zinc.,Relation-4,Relation-6
+A <e1>sweeper</e1> starts at an <e2>end</e2> then runs to the opposite end.,Relation-8,Relation-18
+"The <e1>abridger</e1> did his job carefully, and with a fairly good <e2>eye</e2> for consequential alterations.",Relation-18,Relation-3
+The <e1>infant</e1> was in a <e2>box</e2>.,Relation-18,Relation-4
+"Recall that in the Blink application, the <e1>timers</e1> were started from the booted <e2>event</e2>.",Relation-18,Relation-8
+This primary school <e1>teacher</e1> has completed a whole <e2>book</e2> with his class in just one week.,Relation-18,Relation-17
+We dissolved the <e1>contents</e1> of one <e2>packet</e2> in a carafe of water and ran the brew cycle.,Relation-4,Relation-18
+"As she looked up, she saw a <e1>flight</e1> of <e2>stairs</e2>.",Relation-18,Relation-3
+A French <e1>initiative</e1> aimed at tackling childhood <e2>obesity</e2> is adopted in a town in North Lanarkshire.,Relation-14,Relation-18
+A die-cut and creased cartonboard <e1>blank</e1> is made into a <e2>carton</e2>.,Relation-8,Relation-6
+Optimizing a <e1>transformer</e1> driven active magnetic <e2>shield</e2> in induction heating.,Relation-2,Relation-3
+Newer damper designs have been tested to accommodate a <e1>cadre</e1> of various flanged connection <e2>combinations</e2> to comply with UL's breakaway requirements.,Relation-18,Relation-11
+<e1>Concerns</e1> regarding <e2>data protection</e2> had been raised by a number of authorities.,Relation-18,Relation-14
+"To preserve its <e1>catch</e1> of <e2>fish</e2>, each boat loads between 2000 and 3000 kilos of ice before it goes out to sea.",Relation-18,Relation-13
+My <e1>answer</e1> came in the last <e2>paragraph</e2>.,Relation-18,Relation-15
+"KHZZ experienced <e1>competition</e1> from former oldies <e2>station</e2> KHYL, but both stations ended up giving up the format, with KHZZ turning to oldies.",Relation-1,Relation-8
+"An icon is a small <e1>picture</e1> representing a <e2>file</e2>, folder or program on your computer.",Relation-18,Relation-2
+A <e1>plasma</e1> was generated by an electric <e2>discharge</e2> between electrodes located in the focal plane of the lens and separated by ~ 1 cm from one another.,Relation-1,Relation-18
+Three different <e1>storylines</e1> are narrated in alternating <e2>chapters</e2>.,Relation-15,Relation-18
+"A group of women from Curves Timaru won best-dressed prize with their <e1>ensemble</e1> of purple <e2>clothes</e2>, colourful wigs and sparkly tiaras.",Relation-18,Relation-13
+Described herein are improved apparatus and method for tissue <e1>treatment</e1> with high intensity-focused <e2>ultrasound</e2>.,Relation-18,Relation-11
+The clutch holder was made with a <e1>lathe</e1> by a <e2>friend</e2> of mine.,Relation-10,Relation-16
+"The cause for the <e1>jump</e1> to over 30,000 was the <e2>deterioration</e2> in the economy triggered by a series of bankruptcies among banks and securities firms.",Relation-1,Relation-0
+"Both <e1>cocaine</e1> and crack cocaine cause constricted blood vessels, increased heart rate, body temperature and blood <e2>pressure</e2>.",Relation-18,Relation-0
+"At full establishment, a <e1>brigade</e1> of 18-lbr field <e2>guns</e2> consisted of 795 men of whom 23 were officers.",Relation-18,Relation-13
+His becomes Version 1 of the report and is the <e1>report</e1> that fulfills compliance with the ARRA Section 1512 reporting <e2>requirements</e2>.,Relation-18,Relation-14
+That's why I gave birth in the toilet and hid the <e1>baby</e1> in a <e2>cupboard drawer</e2>.,Relation-18,Relation-4
+"Fortunately the <e1>drift</e1> of the <e2>cattle traffic</e2> is eastward, and as yet there has been no propagation of the poison in the great cattle ranges of the West.",Relation-18,Relation-1
+"Within minutes of last night's terrorist attacks in Mumbai in India, <e1>blogs</e1> and social networks were buzzing with <e2>news</e2>, photos and eyewitness accounts.",Relation-3,Relation-18
+"In order for you to find the exact products that you are looking for, the <e1>staff</e1> in the <e2>shop</e2> gives advice over the phone; just call +45 33 69.",Relation-18,Relation-2
+Mental health recovery and economic <e1>recovery</e1> after the <e2>storm</e2>: high-frequency longitudinal evidence from Sri Lankan small business owners.,Relation-18,Relation-1
+The behavior of premixed <e1>flame</e1> in a <e2>vessel</e2> is investigated through a direct numerical simulation of the three-dimensional unsteady Navier-Stokes equations.,Relation-18,Relation-2
+The <e1>chair</e1> of the <e2>corporation</e2> is elected for a term of office of up to four years as determined by the Corporation.,Relation-18,Relation-12
+5 Gigahertz is a radio frequency <e1>band</e1> that is used by 802.11a/n Wi-Fi <e2>products</e2>.,Relation-10,Relation-18
+Washington's <e1>forces</e1> defeated the British in 1781 with the help of French <e2>troops</e2> and German military officer Baron Von Steuben.,Relation-18,Relation-13
+"The latest <e1>state</e1> of the economy <e2>report</e2> by the Bank of Uganda indicates that overall, export proceeds in the month of October increased by 9.7 per cent.",Relation-18,Relation-15
+<e1>Personality</e1> in poetry includes such things as <e2>style</e2> and rhythm.,Relation-3,Relation-18
+Parent <e1>verbalizations</e1> were focused on story-relevant <e2>questions</e2>.,Relation-14,Relation-18
+Climate change <e1>talks</e1> have been moving into <e2>overtime</e2>.,Relation-6,Relation-18
+"The word ""song"" is used to describe the pattern of regular and predictable <e1>sounds</e1> made by some <e2>species</e2> of whales, notably the humpback whale.",Relation-1,Relation-16
+A 7-month-old <e1>baby</e1> was locked in a 2-by-3 foot <e2>cedar chest</e2> hidden underneath her aunt's bed for 12 hours before police found her Wednesday.,Relation-18,Relation-4
+By 1945 the French electric <e1>system</e1> was generating more <e2>power</e2> than it had before the war.,Relation-0,Relation-18
+The <e1>body</e1> is built up of many different things such as <e2>muscle</e2> and fat and water.,Relation-18,Relation-3
+All of our <e1>producers</e1> rear <e2>produce</e2> within the New Forest.,Relation-18,Relation-17
+"The handpiece contains a primary coil and the <e1>sleeve</e1> encloses a secondary <e2>coil</e2>, which are inductively coupled together so that electromagnetic energy can be transferred between them.",Relation-2,Relation-3
+A <e1>scheme</e1> establishing <e2>access</e2> to the East Sussex countryside for disabled people draws to a close.,Relation-0,Relation-18
+"This <e1>book</e1> has been the topic of considerable heated <e2>debate</e2>, but it is not the intention of this reviewer to enter into this public argument.",Relation-15,Relation-18
+"Mud-plastered walls, traditional display of art, handicrafts from all parts of the nation and the exclusivity of each theme state every year makes the Surajkund Mela stand apart in the <e1>league</e1> of various <e2>exhibitions</e2> of arts and crafts.",Relation-13,Relation-18
+A <e1>photograph</e1> reminds Frederic about a forgotten childhood <e2>memory</e2> about a mysterious woman in white a young.,Relation-18,Relation-14
+The deepest <e1>portion</e1> of the photosphere is the source of a continuous <e2>spectrum</e2>.,Relation-9,Relation-18
+A <e1>calendar</e1> of <e2>saints</e2> forms a way of organising a liturgical year on the finely-granulated level of days by assigning each day to association with a saint.,Relation-14,Relation-13
+The Learning Institute has several externally funded <e1>projects</e1> investigating <e2>aspects</e2> of learning and teaching or management in higher education.,Relation-18,Relation-14
+The plasma processing <e1>apparatus</e1> produces a plasma in a <e2>vessel</e2> and processes samples using the plasma.,Relation-3,Relation-17
+The <e1>archives</e1> also publish historical and scientific <e2>studies</e2>.,Relation-17,Relation-18
+"This adorable <e1>necklace</e1> is made with fine silver plated <e2>chain</e2> and is 20"" long.",Relation-18,Relation-3
+Those models were chain driven and the <e1>mechanism</e1> was enclosed in a very visible oil <e2>bath</e2>.,Relation-18,Relation-4
+The <e1>clerk</e1> in the <e2>shop</e2> activated the card for us.,Relation-18,Relation-2
+Aromatic hydrocarbon-water separations by a <e1>pressure</e1> driven membrane separation <e2>process</e2>.,Relation-10,Relation-18
+The arts minister eagerly put this famous <e1>oil painting</e1> into a cultural <e2>frame</e2>.,Relation-18,Relation-6
+Some part of the <e1>train</e1> was inside a <e2>tunnel</e2> and the remaining on the ramp.,Relation-18,Relation-6
+"The prerogative of Reason lies very low, perpetually overpowered by the <e1>rabble</e1> of <e2>appetites</e2>, passions, and opinions.",Relation-13,Relation-1
+<e1>Cancellations</e1> were notified by <e2>mail</e2>.,Relation-18,Relation-1
+Express <e1>buses</e1> depart the <e2>airport</e2> every 1 hour from 6.00 until 1.00.,Relation-8,Relation-18
+The first mechanism involves the exit of a <e1>solute</e1> from a <e2>micelle</e2> into the aqueous phase and its re-entry into another (or the same) micelle.,Relation-8,Relation-18
+"The <e1>song</e1> is featured in the 1990 film Riff-Raff, performed by the main female <e2>character</e2>.",Relation-18,Relation-16
+Seismologists are keeping an eye on a recent <e1>swarm</e1> of small <e2>earthquakes</e2> in Sun Valley.,Relation-18,Relation-13
+"All <e1>staff</e1>, from the <e2>chairman</e2>, Charlie Mayfield, to part-time shelf stackers in Waitrose, get the same percentage payout.",Relation-13,Relation-18
+The glass tealight <e1>holder</e1> appears to float inside the metal <e2>spiral</e2> as it spins in the gentle breeze.,Relation-18,Relation-2
+Diabetic peanut butter cookies <e1>recipe</e1> from the diabetic recipe <e2>collection</e2> at InformationAboutDiabetes.com.,Relation-12,Relation-8
+We chose a <e1>server</e1> driven <e2>approach</e2> to link prefetching.,Relation-10,Relation-18
+"I dunno, I'm kinda leaning towards some props for the <e1>person</e1> that came up with <e2>brakes</e2>.",Relation-17,Relation-11
+Little Irish girl Becky called a <e1>demolition</e1> <e2>company</e2> and asked if they would knock her school down.,Relation-1,Relation-18
+The <e1>display</e1> receives the output through a 15 pin D connector <e2>cable</e2>.,Relation-11,Relation-3
+"After a successful launch on 29 November 1994, the <e1>satellite</e1> was manoeuvred from its initial geosynchronous-transfer <e2>orbit</e2> at 28.5 degrees to the equator, to an intermediate one at 12.4 degrees, 6,390-36,065km by mid-December.",Relation-8,Relation-18
+Adam Smith's first <e1>measure</e1> of fame was gained from a series of public <e2>lectures</e2> on rhetoric and belles lettres delivered in Edinburgh from 1748 to 1751.,Relation-1,Relation-8
+CIP has been bestowing <e1>awards</e1> to honour planning <e2>projects</e2>.,Relation-6,Relation-18
+The <e1>motor</e1> drives the blade using a <e2>belt</e2> rather than being directly connected like the portable models.,Relation-11,Relation-3
+The 400 V <e1>power supply</e1> (unstabilized) was derived from a conventional <e2>power-pack</e2> with n-filter.,Relation-18,Relation-8
+"To that end, the <e1>coalition</e1> has established some local recreational <e2>activities</e2>, including Laser Tag and paintball.",Relation-0,Relation-18
+"Each of these contain many <e1>modules</e1> on different topics, such as <e2>apostrophes</e2>, silent letters, personal pronouns, spelling plurals, etc.",Relation-14,Relation-3
+The <e1>phonograph</e1> was developed from <e2>work</e2> done on the telegraph and on the telephone.,Relation-8,Relation-18
+"They are massive <e1>artworks</e1> that reveal a wide, all-encompassing <e2>view</e2> of a particular subject, often a landscape, military battle, or historical event.",Relation-14,Relation-18
+"However, after five years the water pump was stolen, leaving the villagers once again dependant on a <e1>pace</e1> of <e2>donkeys</e2> to ferry buckets of water to them from an old well.",Relation-18,Relation-13
+The study focuses on the <e1>personnel</e1> in three service stations in Finland that are part of Teboil's <e2>organisation</e2>.,Relation-18,Relation-12
+A <e1>man</e1> was hidden in the <e2>body</e2> of the turk itself.,Relation-18,Relation-4
+Then the <e1>driver</e1> turned the car into a dark and narrow <e2>street</e2> and reduced his speed.,Relation-6,Relation-18
+The Israeli <e1>media</e1> treated the event with a <e2>mixture</e2> of derision and pity.,Relation-18,Relation-11
+Their parental <e1>responsibilities</e1> are handed over into another's <e2>care</e2>.,Relation-6,Relation-18
+<e1>Horseshoes</e1> are made by <e2>blacksmiths</e2> and blacksmithing is considered a very lucky trade.,Relation-16,Relation-10
+<e1>Mothers</e1> were the single largest group to donate their <e2>kidneys</e2>.,Relation-9,Relation-17
+"And for brunch, we had the cast iron pan ($20) as well as the banana pancakes with <e1>redcurrent</e1> <e2>syrup</e2> and caramelized bananas and walnuts ($13).",Relation-9,Relation-18
+My <e1>husband</e1> returned a $275 cashmere <e2>sweater</e2> to Jos.,Relation-18,Relation-17
+I only put enough <e1>water</e1> in a <e2>kettle</e2> for just a single small cup of tea.,Relation-6,Relation-4
+We store the <e1>glue</e1> in a cool <e2>place</e2>.,Relation-18,Relation-6
+The aquarium <e1>wall</e1> was truly the best part of the <e2>experience</e2> here.,Relation-18,Relation-2
+Scientists in Cambridge have discovered that a lowly grape <e1>variety</e1> grown by <e2>peasants</e2> - but despised by noblemen - during the Middle Ages was the mother of many of today's greatest grape varieties.,Relation-18,Relation-16
+Wilderness tour guides often maintain a <e1>pace</e1> of <e2>asses</e2> to carry the equipment necessary for camping.,Relation-13,Relation-18
+His tenure was marked by absolute discipline among the <e1>staff</e1> of the <e2>hospital</e2>.,Relation-18,Relation-2
+This SNES controller has a <e1>flash drive</e1> loaded with <e2>ROMs</e2> inside.,Relation-3,Relation-5
+"More particularly, the invention is a sealless <e1>pump</e1> that employs a magnetic <e2>coupling</e2> to drive the impeller.",Relation-3,Relation-11
+The <e1>flights</e1> are departing into the adjacent controlled <e2>airspace</e2>.,Relation-8,Relation-6
+Gordon Ramsay's flagship <e1>restaurant</e1> has fallen out of an influential <e2>list</e2> of the top 50 restaurants in the world.,Relation-8,Relation-15
+The <e1>government</e1> established an independent <e2>agency</e2> which is to boost quality in higher education.,Relation-17,Relation-11
+"They shop there for a huge selection of furniture and table legs, carved and turned <e1>furniture</e1> <e2>legs</e2> and feet, wood turnings and more.",Relation-18,Relation-3
+The ultimate <e1>mystery</e1> is the source of the <e2>energy</e2> itself.,Relation-18,Relation-0
+"Professionals from streams like law, engineering, agriculture also have opening in the management <e1>cadre</e1> of various <e2>banks</e2>.",Relation-2,Relation-18
+"Helped by donations, the <e1>association</e1> has assembled 1,000 free <e2>kits</e2>, which include water, flashlights, battery-operated radios, spare batteries, an emergency preparedness booklet and emergency window placards.",Relation-18,Relation-17
+"When a <e1>property</e1> is the source of a data binding <e2>expression</e2>, Flex automatically copies the value of the source property to any destination property.",Relation-9,Relation-15
+"The major phytochemical <e1>constitutes</e1> of the <e2>plant</e2> are elephantopin, triterpenes, stigmasterol epifriedelinol and lupeol.",Relation-18,Relation-2
+In Dutch camping culture empty beer cases are saved and stacked up into a <e1>wall</e1> by <e2>youths</e2>.,Relation-16,Relation-18
+This <e1>player</e1> has moved to the <e2>next round</e2>.,Relation-18,Relation-6
+The <e1>license</e1> is issued from the new <e2>state</e2> after verifying the particulars of the applicant license from the original issuing state.,Relation-16,Relation-8
+The <e1>list</e1> was generated from an open <e2>call</e2> for nominations and prioritized based on factors including the age of the structure.,Relation-8,Relation-3
+A bed of ancient lava seemed to mark the commencement of the <e1>eruption</e1> from the <e2>craters</e2> of the great chain of the Andes.,Relation-8,Relation-1
+A little <e1>girl</e1> finds a lost shoe with the help of her imaginary dinosaur <e2>companion</e2>.,Relation-11,Relation-18
+These <e1>documents</e1> survey the <e2>literature</e2> and recommend limits for worker exposure to hazards.,Relation-14,Relation-18
+<e1>Shampoos</e1> work by using <e2>acid</e2> to remove hard water scale.,Relation-18,Relation-11
+There is in fact a <e1>socialist</e1> <e2>party</e2> in America and there are real socialists.,Relation-18,Relation-12
+The teacher always assigned <e1>students</e1> to <e2>groups</e2>.,Relation-12,Relation-6
+Iraqi air force <e1>pilots</e1> took flight into <e2>history</e2>.,Relation-6,Relation-18
+She left the engine running because the <e1>car</e1> was full of <e2>snakes</e2> used in her exotic routine.,Relation-5,Relation-13
+"The <e1>communion</e1> of <e2>saints</e2> (in Latin, communio sanctorum) is the spiritual union of all Christians living and the dead, those on earth, in heaven and, in Catholic belief, in purgatory.",Relation-18,Relation-13
+The <e1>sound</e1> came from a wooden <e2>structure</e2> two hundred yards away.,Relation-8,Relation-1
+"I crawled over to the edge of the <e1>building</e1> where there was still a fragment of <e2>wall</e2> and peered over, trying to see what was going on.",Relation-18,Relation-3
+"A <e1>chain</e1> <e2>saw</e2> is one of those tools that can be described thusly: When you need one, nothing else will really do.",Relation-2,Relation-10
+My <e1>father</e1> is going into <e2>college</e2> at his old age.,Relation-6,Relation-18
+"Additionally, all <e1>hydrants</e1> and valves are pressure tested at the manufacturing <e2>facility</e2>.",Relation-16,Relation-2
+"The <e1>state</e1> was the source of <e2>capital</e2>, raw materials and labour.",Relation-9,Relation-0
+The <e1>exhibition</e1> displayed a historical <e2>view</e2> of video game development from early arcade games to the present.,Relation-14,Relation-3
+"Accidentally, one <e1>worker</e1> was locked in a refrigerator <e2>boxcar</e2>, and the rest of the workmen left the site.",Relation-18,Relation-11
+"Godfrey and I, caught up in the <e1>whirl</e1> of <e2>insects</e2>, had become part of the forest, too.",Relation-18,Relation-13
+The <e1>study</e1> assessed the effectiveness of the world's fisheries management regimes using <e2>evaluations</e2> by nearly 1200 fisheries experts.,Relation-3,Relation-18
+The <e1>act</e1> promotes efficiency through <e2>limitation</e2> of the copyright owner's available monetary damages.,Relation-11,Relation-18
+The <e1>basin</e1> has sunk into a deep <e2>depression</e2>.,Relation-6,Relation-18
+"This <e1>notification</e1> declares the <e2>names</e2> of plants, plant pests or carriers that are considered to be prohibited.",Relation-14,Relation-3
+A month ago a <e1>request</e1> arrived from an American environmental consulting <e2>firm</e2>.,Relation-8,Relation-16
+The disease most often starts in the palm of the <e1>hand</e1> at the base of the ring or small <e2>fingers</e2>.,Relation-3,Relation-2
+The World Health Organization co-sponsored a <e1>meeting</e1> on avian <e2>influenza</e2> and human pandemic influenza.,Relation-14,Relation-18
+"With the help of its diaspora, China has won the race to be the <e1>world</e1>'s <e2>factory</e2>.",Relation-18,Relation-16
+My <e1>view</e1> of how the brain works is rooted in an evolutionary <e2>perspective</e2> that moves from the fact that our mental life reflects the actions of many.,Relation-1,Relation-18
+Lots of people were having picture taking sessions at the big <e1>patch</e1> of yellow <e2>flowers</e2> in Showa Kinen.,Relation-13,Relation-18
+The same <e1>rule</e1> governs the <e2>use</e2> of the reversed and the monochrome versions of the logo.,Relation-14,Relation-18
+"In particular, the 'historical inevitability' of a united <e1>proletariat</e1> of various <e2>nationalities</e2> was understood as a state interest.",Relation-18,Relation-13
+"The thick slab of spiced <e1>ham</e1> was the best part of this year's new breakfast <e2>sandwich</e2>; the salty meat was griddled to a crisp, nut-brown sear, and it outshone the surrounding egg, cheese, and bun.",Relation-18,Relation-2
+"Here are the amazing <e1>arrangements</e1> from this months <e2>demonstrator</e2>, fantastic, brilliant and stunning.",Relation-16,Relation-8
+The only <e1>escape</e1> I had now was in a <e2>bottle</e2>.,Relation-18,Relation-4
+The <e1>show</e1> offers a constructive <e2>discussion</e2> of a hot-button topic with leading M&A experts.,Relation-14,Relation-3
+"After 2000, his <e1>research</e1> has concerned <e2>environmental issues</e2> in South Africa.",Relation-18,Relation-14
+The accommodation comprises a newly redecorated <e1>office</e1> <e2>floor</e2> on the third floor.,Relation-2,Relation-3
+"The <e1>blisters</e1> are caused by <e2>antibodies</e2> against desmogleins (Dsgs), which are glycoproteins present in the junctions between skin cells.",Relation-16,Relation-18
+Below is a code snippet for creating a <e1>timestamp</e1> from formatted date <e2>date</e2>.,Relation-8,Relation-18
+"During this transport, over about 10 kilometres, the Herschel <e1>spacecraft</e1> was placed inside the payload transport <e2>container</e2>.",Relation-4,Relation-6
+"The <e1>pipeline</e1> that the <e2>gas</e2> leaked from belongs to Puyang company, and was constructed by Nanjing Sanye utility installment company.",Relation-9,Relation-2
+"The <e1>athlete</e1> starts in the three-point <e2>stance</e2>, and explodes out 5 yards to his right.",Relation-18,Relation-11
+One ounce of pure <e1>gold</e1> was sealed in a <e2>quartz tube</e2> and a section of 5-mm inside diameter quartz tube was sealed on the quartz-gold tube.,Relation-6,Relation-4
+There were two wounds on the surface and one was the exit wound of the <e1>gunshot</e1> from the victim's left <e2>forearm</e2>.,Relation-18,Relation-8
+"Part of the seam had been opened up and a roasting <e1>pan</e1> filled with wet <e2>spaghetti</e2>, cherry pie filling and jello was put inside.",Relation-5,Relation-18
+Approximately three dozen bus <e1>lines</e1> operate from the port authority bus <e2>terminal</e2> located between Eighth and Ninth Avenues and 40th to 42nd Streets.,Relation-18,Relation-8
+The second gold <e1>electrode</e1> was pressed from the <e2>top</e2> onto the pellet by a screw in order to ensure optimum contact.,Relation-8,Relation-18
+<e1>Danger</e1> is part of the Palestinian journalist's daily <e2>routine</e2>.,Relation-18,Relation-15
+Eco-Friendly <e1>tomatoes</e1> grown in a portable <e2>pail</e2> are moved inside and continue to produce delicious tomatoes even when summer is just a hearth-side.,Relation-18,Relation-4
+"Advanced XML Converter has a <e1>wizard</e1> driven <e2>interface</e2> for converting xml files into HTML, CSV, DBF and XLS formats with ease.",Relation-2,Relation-3
+The opening lay just below the exit of the left subclavian <e1>artery</e1> from the <e2>arch</e2>.,Relation-18,Relation-2
+"The Postmodernism Generator was written by Andrew C. Bulhak using the Dada Engine, a system for generating random <e1>text</e1> from recursive <e2>grammars</e2>.",Relation-16,Relation-18
+"The discipline of <e1>political science</e1> revolves around <e2>government</e2>, public policy and ethics, foreign politics, law and judicial process.",Relation-18,Relation-14
+The <e1>states</e1> are divided into smaller <e2>counties</e2>.,Relation-3,Relation-6
+My second question is regarding the sale of bones and <e1>hide</e1> of <e2>tigers</e2> going on in Delhi.,Relation-2,Relation-10
+She had left her notebook out on the <e1>fire</e1> escape by <e2>accident</e2>.,Relation-18,Relation-1
+Mobil is now turning to fine art as a way of protecting some of its huge <e1>profits</e1> from <e2>inflation</e2>.,Relation-18,Relation-1
+Yesterday the <e1>team</e1> recycled 200kg of unwanted knitting wool into <e2>insulation</e2>.,Relation-17,Relation-18
+Here's the <e1>theory</e1> I wrote down the other night on the cocktail <e2>napkin</e2> I fished out of my purse just now.,Relation-18,Relation-8
+"At the Volvo Koping factory, seven <e1>robots</e1> make 17 <e2>components</e2> in 30 seconds.",Relation-16,Relation-17
+"Arriving home from this concert, I found an e-mail <e1>message</e1> from a musician <e2>friend</e2>.",Relation-16,Relation-8
+The <e1>trio</e1> lit the <e2>blaze</e2> in a reserve behind Combine Street about 6.40pm and ran off.,Relation-18,Relation-17
+<e1>Politicians</e1> are discovering Sufi <e2>teachings</e2> as a means against religious extremism.,Relation-11,Relation-18
+"The vehicle's <e1>name</e1> was leaked in a Financial Times <e2>article</e2> published on August 31, and this evening, several photos and more information about the concept were published online.",Relation-18,Relation-15
+"Along the way the <e1>women</e1> developed a distinctive <e2>style</e2>, noted for its lively improvisations and geometric simplicity.",Relation-17,Relation-18
+We double-checked that a maximum of 80 <e1>larvae</e1> were placed inside each <e2>vial</e2>.,Relation-4,Relation-6
+The <e1>name</e1> was leaked in <e2>chatrooms</e2> as people gave clues as to who it is and some also said his name.,Relation-18,Relation-15
+"Cross-network instant messenger service, Meebo, has added <e1>games</e1> into <e2>chatting</e2>.",Relation-6,Relation-18
+The evening's <e1>performance</e1> was a great production by a first-class <e2>company</e2> - and not expensive.,Relation-1,Relation-18
+"The survey further refers to a '<e1>game</e1> of <e2>conies</e2>,' and a lodge and coney warren, in the tenure of Richard Hopgood by lease from Richard Gifford.",Relation-13,Relation-3
+It is <e1>text</e1> at the top of a newspaper article indicating the <e2>nature</e2> of the article below it.,Relation-14,Relation-18
+"The <e1>rabbits</e1> are unhappy when left alone in a <e2>hutch</e2> in the garden, as they need company.",Relation-4,Relation-18
+"With Gary Versace on piano, Gary Hobbs on drums, and Chuck Bergeron on bass, the <e1>trio</e1> performs with a wide range of <e2>artists</e2> and ensembles.",Relation-18,Relation-13
+The first <e1>couple</e1> of <e2>weeks</e2> at Palm have been a whirlwind.,Relation-13,Relation-18
+These <e1>observations</e1> determine the high spatial resolution stellar <e2>kinematics</e2> within the nuclei of these galaxies.,Relation-14,Relation-18
+The difference both for show and for use is as great as the difference between a lump of golden ore and a <e1>rouleau</e1> of <e2>sovereigns</e2> fresh from the mint.,Relation-3,Relation-13
+Taking time for introductions and a brief tour of the building helps the pre-service <e1>teacher</e1> feel part of the <e2>school</e2> and aids the important transition from college student. Include the pre-service teacher on staff mailing list and in staff workshops and social functions.,Relation-18,Relation-12
+The <e1>metro line</e1> begins at an underground <e2>station</e2> in St. Stephen's Green in the city centre.,Relation-3,Relation-8
+An unidentified <e1>substance</e1> was found in a <e2>letter</e2>.,Relation-4,Relation-15
+The <e1>money</e1> was handed over into notarial <e2>custody</e2> for the purpose of securing an obligation.,Relation-6,Relation-18
+"These philosophical <e1>issues</e1> have been addressed by <e2>myth</e2>, fiction and philosophy since antiquity.",Relation-15,Relation-18
+"The <e1>manufacturer</e1> assembles the order using <e2>parts</e2> supplied by his preferred supplier, and ships the order to the retailer.",Relation-11,Relation-17
+"A few days before the service, Tom Burris had thrown into Karen's <e1>casket</e1> his wedding <e2>ring</e2>.",Relation-7,Relation-5
